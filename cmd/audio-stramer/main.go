@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/ericoliveiras/go-audio-time/handlers"
+	"github.com/ericoliveiras/audios-streamer-go/handlers"
 )
 
 const port = 8080
