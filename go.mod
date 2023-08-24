@@ -1,3 +1,3 @@
-module github.com/ericoliveiras/go-audio-time
+module github.com/ericoliveiras/audios-streamer-go
 
 go 1.20
