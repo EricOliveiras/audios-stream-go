@@ -1,4 +1,4 @@
-# Audios streamer Go
+# Audios stream Go
 
 Este é um projeto simples em Golang que demonstra como criar um servidor de streaming de áudio básico.
 
